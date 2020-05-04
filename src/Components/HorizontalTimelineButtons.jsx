@@ -36,7 +36,7 @@ const buttonStyles = {
   }),
   icon: (styles, active) => ({
     position: 'absolute',
-    left: 0,
+    left: 5,
     top: '50%',
     bottom: 'auto',
     transform: 'translateY(-50%)',
